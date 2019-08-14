@@ -2,7 +2,7 @@
 
 ## Setting Up
 
-You need a Raspberry Pi, 6 motors, 8 buttons, breadboards (depending on the setup and their sizes), a LED matrix, and an appropriate number of transistors and wires. As far as the wiring goes, we used the  WiringPi library (together with [this diagram](https://raw.githubusercontent.com/ppelleti/hs-wiringPi/master/pin-diagram.png). Wire it up as you see fit and according to your setup.
+You need a Raspberry Pi, 6 motors, 8 buttons, breadboards (depending on the setup and their sizes), a LED matrix, and an appropriate number of transistors and wires. As far as the wiring goes, we used the  WiringPi library (together with [this diagram](https://raw.githubusercontent.com/ppelleti/hs-wiringPi/master/pin-diagram.png)). Wire it up as you see fit and according to your setup.
 
 For the physical design of the device, we encourage everyone to be as creative as possible. Our own contraption is eco-friendly, built with a recycled box, an egg carton for the motors, strepsils caps to cover the motors, blue tack, hot glue, tape etc. because it was just a prototype.
 
