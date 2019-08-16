@@ -6,6 +6,8 @@ You need a Raspberry Pi, 6 motors, 8 buttons, breadboards (depending on the setu
 
 For the physical design of the device, we encourage everyone to be as creative as possible. Our own contraption is eco-friendly, built with a recycled box, an egg carton for the motors, strepsils caps to cover the motors, blue tack, hot glue, tape etc. because it was just a prototype.
 
+<img src = "/images/1.jpg">
+<img src = "/images/2.jpg">
 Also, do not forget to connect the Raspberry Pi to a screen with the appropriate wires. ;)
 
 ## Prerequisites
@@ -30,7 +32,7 @@ The user will be prompted to a menu, where they can choose whice mode of transla
 - Braille to Text:
   - Use the BrailleBoard to type what character the user  wants, no matter which order the buttons are pressed
   - After each character the user has to press ENTER
-  - In order to type numbers the digit character has to be typed in first (see below)
+  - In order to type numbers the DIGIT  character has to be typed in first (see below)
   - To finish a message, type in the EXIT character
 
 <img src = "/images/3.jpg">
