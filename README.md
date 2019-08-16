@@ -33,8 +33,7 @@ The user will be prompted to a menu, where they can choose whice mode of transla
   - In order to type numbers the digit character has to be typed in first (see below)
   - To finish a message, type in the EXIT character
 
-![Alphabet](/images/33.jpg)
-Format: ![Alt Text](url)
+![Alphabet](/images/3.png)
 
 ### Goals
 
